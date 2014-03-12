@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Csci_5370_assignment_4</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="run_1">Run 1</string>
+    <string name="run_20">Run 20</string>
+    <string name="run">Run</string>
+
+</resources>
